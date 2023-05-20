@@ -27,7 +27,7 @@
 
 .froget_page .continar .main_content p{
     font-weight: 600;
-    font-size:20px;
+    font-size:25px;
    
 }
 
@@ -53,10 +53,13 @@ transform: translate(-50%,-50%);
 }
 
 .froget_page .continar .main_content form .form-group  button{
-    background-color:rgb(253, 141, 76);
+    background-color:#f76f30;
     border:none;
-    width:100px;
+    width:120px;
+    height: 40px;
     margin-top: 20px;
+    color:black;
+   
 }
 
 
