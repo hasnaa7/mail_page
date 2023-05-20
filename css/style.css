@@ -47,6 +47,7 @@ transform: translate(-50%,-50%);
 }
 .froget_page .continar .main_content form .form-group input{
     background-color:transparent;
+    margin-top: 10px;
     border-color:rgb(20, 12, 6);
 
 }
