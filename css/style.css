@@ -1,0 +1,62 @@
+/* start form  */
+
+.froget_page{
+    position: relative;
+    background-size: cover;
+    height: 100vh;
+    background-image: url(../images/m.jpg);
+}
+.froget_page .continar{
+ 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.froget_page .continar .main_content{
+   background-color: rgba(250, 137, 8, 0.5);
+   height:50vh;
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   width:100%;
+
+   margin-left: auto;
+   margin-right: auto;
+    
+}
+
+.froget_page .continar .main_content p{
+    font-weight: 600;
+    font-size:20px;
+   
+}
+
+.froget_page .continar .main_content form{
+display: flex;
+max-width:900px;
+flex-wrap: wrap;
+position: absolute;
+top: 50%;
+left:50%;
+transform: translate(-50%,-50%);
+}
+.froget_page .continar .main_content form .form-group label{
+    font-weight: 800;
+    font-size: 20px;
+    padding: 10px;
+}
+.froget_page .continar .main_content form .form-group input{
+    background-color:transparent;
+    border-color:rgb(20, 12, 6);
+
+}
+
+.froget_page .continar .main_content form .form-group  button{
+    background-color:rgb(253, 141, 76);
+    border:none;
+    width:100px;
+    margin-top: 20px;
+}
+
+
+/* end form */
